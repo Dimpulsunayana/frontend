@@ -1,2 +1,2 @@
 @Library('Roboshop') _
-ci()
+lib()
