@@ -1,3 +1,3 @@
 @Library('Roboshop') _
-def app_lang =""
+env.app_lang =""
 lib()
