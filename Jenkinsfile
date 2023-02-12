@@ -1,3 +1,4 @@
 @Library('Roboshop') _
-env.app_lang =""
+env.component ="frontend"
+env.app_lang ="nginx"
 lib()
